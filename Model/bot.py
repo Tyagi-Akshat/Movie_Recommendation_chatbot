@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace with your actual bot token
-BOT_TOKEN = "7585159252:AAGFn6C4S3OY2BYcK5_kgN1aiVBNKq_Gww4"
+BOT_TOKEN = "Your Token"
 
 # /start command handler
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
