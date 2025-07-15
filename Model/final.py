@@ -12,11 +12,11 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # --- Configuration (REPLACE WITH YOUR ACTUAL KEYS AND PREFERENCES) ---
-API_KEY = '2fe0a9a440de61e591cb8c92c878b83a' # Your TMDb API Key
+API_KEY = 'Your Tmdb Api Key' # Your TMDb API Key
 BASE_URL = 'https://api.themoviedb.org/3'
 
 # Configure the Gemini API - REPLACE WITH YOUR ACTUAL GEMINI API KEY
-genai.configure(api_key="AIzaSyCTSRFpXle94HYnEqqNEs2iTxZU2fqiNmQ")
+genai.configure(api_key="Your Gemini Api key")
 
 # --- Global Variables for Context and Phrases ---
 # For Engaging Responses
