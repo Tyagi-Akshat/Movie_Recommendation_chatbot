@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+scikit-learn
+nltk
+python-telegram-bot
+google-generativeai
