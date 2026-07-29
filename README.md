@@ -272,18 +272,6 @@ Best horror movies after 2020
 
 ---
 
-## 📸 Demo
-
-Add screenshots or a GIF of the chatbot here.
-
-Example:
-
-```
-assets/demo.gif
-assets/chatbot.png
-```
-
----
 
 ## 👨‍💻 Author
 
